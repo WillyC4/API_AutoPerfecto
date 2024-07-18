@@ -1,0 +1,6 @@
+@API_AutoPerfecto_HostAddress = http://localhost:5155
+
+GET {{API_AutoPerfecto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
